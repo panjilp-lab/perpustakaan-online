@@ -1,0 +1,17 @@
+.cover {
+	border: 1px solid #ddd;
+	width: 3cm;
+	height: 4cm;
+	float: left;
+}
+.clear {
+	clear: left;
+}
+.buku-data {
+	padding: 10px;
+	float: left;
+}
+.cover img {
+	width: 3cm;
+	height: 4cm;
+}

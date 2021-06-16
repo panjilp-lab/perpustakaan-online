@@ -1,0 +1,18 @@
+.data {
+    width: 250px;
+    position: absolute;
+    top: 94px;
+    left: 137px;
+    font-size: 12px;
+}
+.foto {
+    width: 2cm;
+    height: 3cm;
+    position: absolute;
+    top: 93px;
+    left: 54px;
+}
+.foto img {
+	width: 2cm;
+	height: 3cm;
+}

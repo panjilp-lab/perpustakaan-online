@@ -1,0 +1,21 @@
+.photo {
+	border: 1px solid #ddd;
+	width: 3cm;
+	height: 4cm;
+	float: left;
+}
+.photo img {
+	width: 3cm;
+	height: 4cm;
+	float: left;
+}
+.data {
+	border: 1px solid;
+	padding: 10px;
+	float: left;
+	font-weight: bold;
+	font-size: 11pt;
+}
+.clear {
+	clear: left;
+}

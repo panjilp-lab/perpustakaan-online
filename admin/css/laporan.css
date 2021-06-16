@@ -1,0 +1,57 @@
+body {
+	background: fff;
+	margin: 0;
+	padding: 0;
+}
+.header {
+	padding: 10px;
+	border-bottom: 3px solid;
+	margin: 0 auto;
+	width: 930px;
+	margin-top: 10px;
+}
+h1 {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 12pt;
+}
+.header .kiri {
+	float: left;
+}
+.clear {
+	clear: left;
+}
+.header .center {
+	float: left;
+	width: 77%;
+	margin: 27px auto;
+	text-align: center;
+}
+.isi {
+	padding: 10px;
+	margin: 0 auto;
+	width: 961px;
+}
+.isi table {
+	width: 100%;
+	border-collapse: collapse;
+}
+table th {
+	padding: 10px;
+}
+.footer {
+	width: 930px;
+	margin: 0 auto;
+	padding: 10px;
+	margin-top: 20px;
+}
+.footer table {
+	border-collapse: collapse;	
+	width: 100%;
+}
+.footer table td {
+	width: 50%;
+	text-align: center;
+}
